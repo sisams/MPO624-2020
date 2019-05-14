@@ -1,15 +1,14 @@
 # Syllabus of MPO/ATM 642, spring 2020
-<<<<<<< HEAD
-Applied Data Analysis (in an oceanography/meteorology setting). https://github.com/MPO624/2020.
-=======
-Applied Data Analysis (in an oceanography/meteorology setting). https://github.com/MPO624/2018.
->>>>>>> origin/master
+Applied Data Analysis (ADA) in an ocean/atmosphere context. 
+https://github.com/MPO624/2020.
 
 Instructor: Brian Mapes, mapes@miami.edu. MSC366 is my office. 
-Class meets: 10:30-11:45 Tues-Thurs, MSC 329
+
+Class meets: 10:30-11:45 Tues-Thurs
+
 Clinc / office hours: let's arrange 
 
-No required text, all software is free. 
+No required text, all software is free. Supplemental readings may be found in the Readings area. 
 
 ## Goals and spirit of the course
 ##### _If you want to build a ship, don't drum up people to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea. --Antoine de Saint-Exupery_

@@ -1,7 +1,7 @@
 week | Tuesdays theory | Thursdays computers | dates
 -----|----------|-----------|------
 1 | Introductions, orientation     |Computer & github setup      |
-2 | Deconstruct a science paper's evidence | Computer skills follow-along | 
+2 | Deconstruct your science paper's evidence | Computer skills follow-along | 
 3 | **Module 1**: sets and stats | Distributions                | 
 4 | " : probability|Joint distributions        |  
 5 | " : cov,cor,reg| Regression                | 

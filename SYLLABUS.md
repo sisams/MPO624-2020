@@ -39,9 +39,9 @@ We have 28 75-minute classes together, plus double that much of your time dedica
 
 ### Theory Tuesdays, Computer Thursdays
 
-Tuesdays will cover the essential ideas and vocabulary, aimed at the exam(s). 
+Tuesdays will cover the essential ideas and vocabulary, aimed toward the exams. 
 
-Thursdays will be done with a projector, often paralleing the homework assignments.  
+Thursdays will be done with a projector, often paralleling the homework assignments (follow along; then students extend examples or change to their own data inputs for homework).  
 
 ### 3 modules: basic stats, series methods, empirical methods 
 Three main modules break up the 14 weeks into ~5 week chunks.
@@ -51,6 +51,9 @@ Three main modules break up the 14 weeks into ~5 week chunks.
 2. Series methods for data ordered along a dimension (like time series), preferably uniformly. Fourier mapping to/from spectral space. The best ways to display and interpret spectra (and why these are variously used). The common null hypotheses (white and colored noises, especially AR1 “red noise”). A glimpse of wavelet methods. 
 
 3. Empirical or data-driven analysis. The agnostic approach is philosophically satisfying, but there are pitfalls (overfitting). Maximum Covariance techniques like EOFxPC `data(x,t) = EOF1(x) PC1(t) + EOF2(x) PC2(t) + … ` A glimpse of machine learning methods. How science's goals and evidentiary standards differ from commerce or law. 
+
+
+
 
 ## Provisional schedule: 
 

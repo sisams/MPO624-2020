@@ -6,7 +6,7 @@ Instructor: Brian Mapes, mapes@miami.edu. MSC366 is my office.
 
 Class meets: 10:30-11:45 Tues-Thurs
 
-Clinc / office hours: let's arrange 
+Clinc / office hours: By arrangement
 
 No required text, all software is free. Supplemental readings may be found in the Readings area. 
 

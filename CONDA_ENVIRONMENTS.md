@@ -13,7 +13,7 @@ If we need more packages, more lines can be added to that file (it is easy to re
 
 Then, edit your .yml file as desired. Then, 
 
-`conda env _update_ -f MPO624_conda_environment.yml`
+`conda env update -f MPO624_conda_environment.yml`
 
 `source activate MPO624`
 

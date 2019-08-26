@@ -1,26 +1,26 @@
 ## You have to know this much about environments
 
-From the directory where you find this file, you must **create** the **MPO624 environment** like this: 
+#### 0. The first time, to **create** an environment: 
+From the directory where you find this file, **create** the **MPO624 environment** by typing: 
 
 `conda env create -f MPO624_conda_environment.yml`
 
-And of course, to "activate" an environment before launching jupyter, 
-source activate MPO624
+#### 1. To "activate" an environment and launch jupyter in it, type the following: 
 
-If we need more packages, more lines can be added to that file (it is easy to read). To **update** your environment in a documented way, without reinstalling all its packages, step out of it first: 
+`source activate MPO624`
+`jupyter notebook`
+
+##### 2. To **update** your environment in a documented way, step out of it first: 
 
 `source deactivate`
 
-Then, edit your .yml file as desired. Then, 
+Then, edit your .yml file as desired, and use `update` instead of `create` like this: 
 
 `conda env update -f MPO624_conda_environment.yml`
 
-`source activate MPO624`
 
-
-If you do all this a lot, conda can use a lot of disk space as it updates packages to the latest version, but leaves old versions lying around. You might like to use
+### 3. Cleanup: conda can use a lot of disk space as it updates packages to the latest version, but leaves the old versions lying around. You might like to use
 
 `conda clean` 
 
-
-The conda cheat sheet is worth the 1-page of paper to print it on, perhaps. 
+The [conda cheat sheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf) has more. 

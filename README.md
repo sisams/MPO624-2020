@@ -1,7 +1,7 @@
 # MPO 624 CLASS FOR SPRING 2020
 
 ## Welcome!
-The course is all here, no Blackboard will be used. Once you have a Github account (below), fork this repository, and then Clone it to your machine. 
+The course is all here, no Blackboard will be used. Once you have a Github account (below), `Fork` this repository and `Clone` it to your machine. Then you can `Pull from origin` to get my updates, and `Push` your `Commits` where they can be seen on github.com. 
 
 ### Software accounts and installs: 
 
@@ -10,7 +10,7 @@ The course is all here, no Blackboard will be used. Once you have a Github accou
   1. https://github.com/MPOcanes/MPO624-2020/blob/master/INSTALL_JUPYTER_UNIDATA.md
   
 ## Hypothes.is for our communications over literature and other Web content
-  * Click [here](http://hypothes.is). Learn what it is, and create an account. Install their Chrome browser plugin. Make a visible comment on some Web page. If you wish, learn about how to make private rather than public comment channels, and invite the instructor to join your class-related channel. 
+  * Click [here](http://hypothes.is) to begin. Learn what it is, and create an account. Install their Chrome browser plugin. To test it, make a visible comment on some Web page. If you wish, learn about how to make private rather than public comment channels (Groups), and invite the instructor to join your class-related Group. 
 
 ## Optional other installs 
    

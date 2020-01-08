@@ -30,4 +30,5 @@
 ## Other git clients I have heard recommended
 
 https://www.gitkraken.com/
+
 https://www.sourcetreeapp.com/

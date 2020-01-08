@@ -13,7 +13,7 @@ The course is all here, no Blackboard will be used. Once you have a Github accou
 
 ## Optional other installs 
    
-   * Matlab is free to you while you are at UM. You will need to create an account with them, verify license tokens, etc.  It is very powerful, and very well documented with lots of hand-holding features, but it is commercial and proprietary. I will not use my course to create a generation of addicts to it, but you might end up using it -- lots of scientists do, and a big body of working, legacy code is nothing to sneer at. You can install it from here: http ://it.miami.edu/a-z-listing/matlab/index.html
+   * Matlab is free to you while you are at UM. You will need to create an account with them, verify license tokens, etc.  It is very powerful, and very well documented with lots of hand-holding features, but it is commercial and proprietary. I will not use my course to create a generation of addicts to it, but you might end up using it -- lots of scientists do, and a big body of working, legacy code is nothing to sneer at. You can install it by going [here](http://it.miami.edu/a-z-listing/matlab/index.html).
    
    * The IDV (for data integration and visualization), install the [nightly build from Undiata](https://www.unidata.ucar.edu/downloads/idv/nightly/index.jsp). You will need to create a light sign-in, just so they know who’s using it. 
 

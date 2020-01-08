@@ -5,10 +5,11 @@ The course is all here, no Blackboard will be used. Once you have a Github accou
 
 ### Software accounts and installs: 
 
-## 1. The Jupyter-Python (JuPy)-Github software stack
-  1. https://github.com/MPOcanes/MPO624-2020/blob/master/INSTALL_JUPYTER_UNIDATA.md
+## The Jupyter-Python (JuPy)-Github software stack
   1. https://github.com/MPOcanes/MPO624-2020/blob/master/GITHUB_QUICKSTART.md
-## 2. Hypothes.is for our communications over literature and other Web content
+  1. https://github.com/MPOcanes/MPO624-2020/blob/master/INSTALL_JUPYTER_UNIDATA.md
+  
+## Hypothes.is for our communications over literature and other Web content
   * Click [here](http://hypothes.is). Learn what it is, and create an account. Install their Chrome browser plugin. Make a visible comment on some Web page. If you wish, learn about how to make private rather than public comment channels, and invite the instructor to join your class-related channel. 
 
 ## Optional other installs 

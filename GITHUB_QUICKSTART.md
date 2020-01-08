@@ -1,31 +1,22 @@
 # Make your space on GitHub!
 
 ----------
-1. **Install** the desktop client (app) ~~https://desktop.github. com/~~  
-   - The older (CLEARER!) version 223 app is MUCH better in my opinion.
-      - **Mac:** https://central.github.com/mac/latest
-      - **Windows:** https://github-windows.s3.amazonaws.com/GitHubSetup.exe
+1. **Install** the desktop client (app) at https://desktop.github.com/. (This won't interfere with the ability to use command-line git.)
 
-   - While you're at it, why not **install** their allied text editor, atom https://atom.io/.  
-
-2. **Make an account** on github.com (the desktop client will prompt you on launch; or you can go directly in a browser).
+2. **Make an account** on github.com (the desktop client will prompt you on launch, or go directly in a browser).
    - Link your desktop client to your GitHub account by typing your username and password into it.
 
 -----------------
-### Ready to fetch a starter repo, and collaborate?
+### Clone the course repo, to allow updates and collaboration
 
-3. **Fork** (click at upper right) any repo you want to interact with, on its GitHub.com page.
-   - For instance, the course https://github.com/MPO624/MPO624-2020.
+3. **Fork** the course repo with the button at upper right on its [page](https://github.com/MPO624/MPO624-2020).
 
-4. **Clone your fork** to a working copy on your local machine.
-   - To do this, open the GitHub desktop client (app), and hit the **+** symbol at upper left, choosing **Clone**.
+4. **Clone your Fork** to your local machine.
 
-   - You will have to select or create the directory name you put it in, on your own computer.
+   - In the GitHub desktop client's upper left corner, in the **Add** menu choose **Clone**.
 
-      - *This folder will be special*: it will have some hidden files in there (under .git) the do the verstion control, keeping track of all those branches and merges. This all helps you keep local verison control for yourself. It also facilitates **sync** with your Fork online (a form of backup), and **Update from...** the upstream master that you initially Forked your copy of the repo from.
-
-       - Naming is worth a lot of thought. How will all this fit into your larger intellectual life (as mapped into your computer)? For myself, I think Jupyter notebooks are a huge future, and it is nice to have them all in one folder tree. So I will use the name **(home)/Jupyter/MPO624-2020.**
-
+   - You will have to select or create a folder for it on your own computer. Choose its name thoughtfully. It will have some hidden files (under .git) to keep track of versions and branches. 
+   
 ------------------
 
 ### To learn more about GitHub, browse the guides at https://guides.github.com/

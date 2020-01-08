@@ -1,4 +1,4 @@
-# Make your space on GitHub!
+# Create an account on Github, and `Clone` the class repository
 
 ----------
 1. **Install** the desktop client (app) at https://desktop.github.com/. (This won't interfere with the ability to use command-line git.)

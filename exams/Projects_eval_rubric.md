@@ -4,14 +4,4 @@
 
 Name | I. Priors, questions, hypotheses | II. Data analysis, Applied | III. Synthesis of lessons learned
 -----|------ | -------------------|----------------------
-Rachel Zelinsky | | | 
-Kayla Besong | | | 
-Jesse Clark | | | 
-Nektaria Ntaganou | | | 
-Wei-Ming Tsai | | | 
-Carli Merrick | | | 
-Becca Hammersia | | | 
-Valeria Donets | | | 
 Kelsey Malloy | | | 
-Sara Purdue | | | 
-Xingchen Yang | | |

@@ -1,8 +1,7 @@
-# Links to useful resources for class 
+# Links to useful resources
 
 * Other courses & books about statistics and data analysis
 
-  * My past courses: ~~http://mpo624-2016.wikispaces.com/~~ Out of Business
   * Libby Barnes course at CSU http://barnes.atmos.colostate.edu/COURSES/AT655_S17/lecture_slides.html
   * Excellent free Matlab-based course .ppt's http://www.ldeo.columbia.edu/users/menke/edawm/eda_lectures/ 
   
@@ -12,19 +11,19 @@
 --------------
 * Software basics
   * Github 
-    * Guides at https ://guides.github.com/
-    * Deeper “training" https ://services.github.com/on-demand/
+    * Guides at https://guides.github.com/
+    * Deeper “training" https://services.github.com/on-demand/
     * game-like https://learngitbranching.js.org/
 
   * Software Carpentry lessons https://software-carpentry.org/lessons/
 
   * Python
-    * Unidata Python workshop https ://unidata.github.io/unidata-python-workshop/
+    * Unidata Python workshop https://unidata.github.io/unidata-python-workshop/
     * http://pyintro.org/tutorial.html
+    * SciPy lecture notes http://scipy-lectures.org/index.html, https://github.com/jrjohansson/scientific-python-lectures 
     
 ---------------
 * Jupyter notebooks of interest
-  * Intro to Python, numpy, scipy, matplotlib https://github.com/jrjohansson/scientific-python-lectures 
   
   * Unidata gallery https://unidata.github.io/notebook-gallery/
 

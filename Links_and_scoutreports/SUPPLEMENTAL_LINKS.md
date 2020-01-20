@@ -18,7 +18,7 @@
   * Software Carpentry lessons https://software-carpentry.org/lessons/
 
   * Python
-    * Unidata Python workshop https://unidata.github.io/unidata-python-workshop/
+    * Unidata Python workshop https://unidata.github.io/python-training/
     * http://pyintro.org/tutorial.html
     * SciPy lecture notes http://scipy-lectures.org/index.html, https://github.com/jrjohansson/scientific-python-lectures 
     

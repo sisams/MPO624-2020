@@ -7,7 +7,6 @@
    - python=3
    - jupyter
    - jupyterlab
-   - spyder
    - rise
    - numpy
    - matplotlib
@@ -34,7 +33,6 @@
    - pytest
    - ipywidgets
    - pip:
-     - python-awips
      - mpldatacursor
      - drilsdown
      - opencv-python

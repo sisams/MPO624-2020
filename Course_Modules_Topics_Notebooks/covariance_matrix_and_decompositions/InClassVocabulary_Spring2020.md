@@ -15,5 +15,9 @@ _February 25_
 * eigenvector
 * singular vector
 ------
-
-
+_March 3_
+* decomposition
+* factorization
+* vector
+* matrix
+* diagonalization

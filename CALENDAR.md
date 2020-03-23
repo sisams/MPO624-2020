@@ -12,11 +12,11 @@ week | Tuesdays (theory) | Thursdays (computers) | dates
 7 | [The scientific paper is outdated](https://www.chronicle.com/article/The-Scientific-Paper-Is/248045). Classical empirical decomposition |  EOF [readings](https://github.com/MPOcanes/MPO624-2020/tree/master/Course_Modules_Topics_Notebooks/covariance_matrix_and_decompositions/Readings) (or see the [original](https://eapsweb.mit.edu/sites/default/files/Empirical_Orthogonal_Functions_1956.pdf)) and start on assignment for next week |  Feb 25-27
 8 | Generalized ["maximum covariance" analyses](https://atmos.washington.edu/~dennis/552_Notes_4.pdf) like SVD. [Critiques](https://journals.ametsoc.org/doi/pdf/10.1175/1520-0442%281995%29008%3C0352%3AACCSVD%3E2.0.CO%3B2) often have the most compact summary, but this [review](https://journals.ametsoc.org/doi/pdf/10.1175/1520-0442%281992%29005%3C0541%3AAIOMFF%3E2.0.CO%3B2) has 1666 citations. The [outer product](https://en.wikipedia.org/wiki/Outer_product) of the leading singular vectors (or eigenvectors if **C** is square) is the checkerboard (akin to separation-of-variables solutions in PDEs) that, *when subtracted from **C**, leaves the smallest remainder*. | Present your data: make [scattermatrix](https://seaborn.pydata.org/examples/scatterplot_matrix.html), cor & cov matrix [(display suggestions)](https://towardsdatascience.com/better-heatmaps-and-correlation-matrix-plots-in-python-41445d0f2bec), and an EOF/PC result. Notebooks to raid [here.](https://github.com/MPOcanes/MPO624-2020/tree/master/Course_Modules_Topics_Notebooks/covariance_matrix_and_decompositions) Matlab [link](https://www.mathworks.com/help/stats/pca.html;jsessionid=b455bc072cd2cab0a9d9170f0db0).| Mar 3-5
 9 | SPRING | BREAK | March 10-12
-10 | Hypothesis testing & significance | Hypothesis testing & significance  |  Mar 17-19
-11| series analysis | Spectra  | Mar 24-26
-12| DOFs and significance   |  wavelets    | Mar 31 - Apr 2
-13| cross-spectra | flux by scale | Apr 7-9
-14| Special topics | examples | Apr 14-16
-15| Project readiness | examples  | Apr 21-23
-16| Reading | Presentation of projects | Apr 28-30
+10 | COVID WEEK | COVID WEEK (test BC-Ultra) [Zoom](https://miami.zoom.us/j/3054214275) me here |  Mar 17-19
+11| Modeling the meaning: simple, interpretive. Walk through our [assignment]() | Notebooks from Tuesday's assignment  | Mar 24-26
+12| Assignment cont'd  |  Assignment cont'd    | Mar 31 - Apr 2
+13| Time series concepts | Time series concepts | Apr 7-9
+14| Vocabulary review | Vocabulary test (honor system) | Apr 14-16
+15| Time series | Time series  | Apr 21-23
+16| Project readiness | Presentation of projects | Apr 28-30
 

@@ -15,8 +15,16 @@ week | Tuesdays (theory) | Thursdays (computers) | dates
 10 | COVID WEEK | COVID WEEK (test BC-Ultra) [Zoom](https://miami.zoom.us/j/3054214275) me here |  Mar 17-19
 11| Modeling the meaning: simple, interpretive. Walk through our [assignment notebook based on your research](https://github.com/MPOcanes/MPO624-2020/blob/master/Course_Modules_Topics_Notebooks/2020%20students%20modeling%20assignment/Simplemodels_COVID_and_student_projects.ipynb) | Notebooks from Tuesday's assignment  | Mar 24-26
 12| Assignment cont'd  |  Assignment cont'd    | Mar 31 - Apr 2
+<<<<<<< HEAD
 13| Hypothes.is readings: Significance testing critiques in words: [Johnson in wildlife bio](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1225&context=usgsnpwrc), [Nicholls in climate](https://journals.ametsoc.org/doi/pdf/10.1175/1520-0477%282001%29082%3C0981%3ACAATIO%3E2.3.CO%3B2) in words, and [Ambaum](https://journals.ametsoc.org/doi/pdf/10.1175/2010JCLI3746.1) with more math. | How much can you appreciate of this [retirement essay](http://www-stat.wharton.upenn.edu/~steele/HoldingPen/SunsetSalvo.pdf) of stat/DA pioneer Tukey? Flag items of intrigue. | Apr 7-9
 14| Vocabulary review | Vocabulary test (honor system) | Apr 14-16
 15| Time series | Time series  | Apr 21-23
+=======
+13| Probability and statistical hypothesis testing (p-value estimation, confidence intervals) vocabulary. Assignment: links clickable in email, with questions from [here](https://github.com/MPOcanes/MPO624-2020/blob/master/Course_Modules_Topics_Notebooks/Probability_vocabulary/README.md). Let's go over this old [exam](https://github.com/MPOcanes/MPO624-2020/blob/master/Testable_material_oldexams/Previous_Years_Exams/2018_ADA_Quiz1_Basicstats.toohard.pdf) as an example of questions in this area. Contingency table (*marginal* and *conditional* dists), Bayes theorem in slide 12 of lec04 [here](https://www.ldeo.columbia.edu/users/menke/edawm/eda_lectures/).| Touch with hypothes.is these readings on significance testing critiques: [Ambaum 2010](https://journals.ametsoc.org/doi/pdf/10.1175/2010JCLI3746.1), see also [Nicholls](https://journals.ametsoc.org/doi/pdf/10.1175/1520-0477%282001%29082%3C0981%3ACAATIO%3E2.3.CO%3B2) (perhaps echoing a famous title by [Johnson in wildlife biology](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1225&context=usgsnpwrc)). Flag items you appreciate or wonder about in this [retirement essay](http://www-stat.wharton.upenn.edu/~steele/HoldingPen/SunsetSalvo.pdf) of stat/DA pioneer Tukey. | Apr 7-9
+14| Time series basics | Time series basics  | Apr 14-16
+15| Vocabulary review | Vocabulary test (open book but timed, so better if you studied/memorized) | Apr 21-23
+>>>>>>> upstream/master
 16| Project readiness | Presentation of projects | Apr 28-30
+16| Presentation of projects | | May 5
+
 
